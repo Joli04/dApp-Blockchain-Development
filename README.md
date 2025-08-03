@@ -63,13 +63,14 @@ Navigate to the client folder:
 ```bash
 cd ../client
 ```
-
 Install the dependencies:
 ```bash
 npm install
 ```
-
 Run the project:
 ```bash
 npm run serve
 ```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
