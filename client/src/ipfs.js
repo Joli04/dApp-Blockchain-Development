@@ -5,7 +5,7 @@ async function ipfsClient () {
   return create(
     {
       host: 'localhost',
-      port: '5002',
+      port: '5001',
       protocol: 'http'
     }
   )
